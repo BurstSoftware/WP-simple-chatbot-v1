@@ -6,3 +6,5 @@ Version: 1.0
 Author: Your Name
 License: GPL2
 */
+
+require_once plugin_dir_path(__FILE__) . 'includes/settings.php';
